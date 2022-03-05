@@ -83,7 +83,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/doctor-portfolio\/wp-admin\/admin-ajax.p
 </script>
 <script src="https://vishal-45.github.io/doctor-portfolio/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"2f6f333e09"};
+var userProfileL10n = {"user_id":"0","nonce":"a184510ffa"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
